@@ -1,0 +1,15 @@
+.fancybox-iframe, .fancybox-video {	
+    background: transparent;	
+    border: 0;	
+    height: 110%;	
+    margin: 0;	
+    overflow: hidden;	
+    padding: 0;	
+    width: 100%;	
+}
+.fancybox-slide--iframe .fancybox-close-small, .fancybox-slide--image .fancybox-close-small, .fancybox-slide--video .fancybox-close-small {
+    color: #ccc;
+    padding: 5px;
+    right: -12px;
+    top: -10px;
+}
