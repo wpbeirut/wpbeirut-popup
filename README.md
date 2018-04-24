@@ -1,6 +1,9 @@
 # popup-solution
 A solution to open an external page while scrolling down until you hit a certain content container.
-
+for more information on how to install the boilerplate, you can watch the video demo
+<div align="center">
+  <a target="_blank" href="https://www.youtube.com/watch?v=bao2C7ANmfI"><img src="https://img.youtube.com/vi/bao2C7ANmfI/0.jpg" width="100%" alt="Wordpress Beirut Popup Module"></a>
+</div>
 ## objectives
 1. allow to integrate a 3rd party component page (such mailchimp form, Google Form, video player, etc) in easy steps.
 2. put a single line of code in the content to auto fire and display the 3rd party page as an overlay page.
@@ -14,7 +17,7 @@ The code can be used on any other platform than wordpress.
 
 
 ## usage
-You need to upload the wpbeirut-popup folder to the root of your CMS (Wordpress).
+you can clone or upload the wpbeirut-popup folder to the root of your CMS (Wordpress).
 in case you need to use it for blog, or pages or category or any specific page render open the page that you need to use.
 in our example is the single.php
 

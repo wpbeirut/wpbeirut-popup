@@ -13,7 +13,11 @@
 <link rel="stylesheet" href="<?= site_url() ?>/wpbeirut-popup/assets/jquery.fancybox.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="<?= site_url() ?>/wpbeirut-popup/assets/custom.css" type="text/css" media="screen" />
 <script type="text/javascript" src="<?= site_url() ?>/wpbeirut-popup/assets/custom.js"></script>
-
+<style>
+    html, body {
+        height:auto!important;
+    }
+</style>
 <script>
 // set a global variable firsttime to true.
 var firsttime = true;
