@@ -4,6 +4,7 @@ for more information on how to install the wpbeirut-popup, you can watch the vid
 <div align="center">
   <a target="_blank" href="https://www.youtube.com/watch?v=bao2C7ANmfI"><img src="https://img.youtube.com/vi/bao2C7ANmfI/0.jpg" width="100%" alt="Wordpress Beirut Popup Module"></a>
 </div>
+
 ## objectives
 1. allow to integrate a 3rd party component page (such mailchimp form, Google Form, video player, etc) in easy steps.
 2. put a single line of code in the content to auto fire and display the 3rd party page as an overlay page.
