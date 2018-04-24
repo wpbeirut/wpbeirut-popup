@@ -1,6 +1,6 @@
 # popup-solution
 A solution to open an external page while scrolling down until you hit a certain content container.
-for more information on how to install the boilerplate, you can watch the video demo
+for more information on how to install the wpbeirut-popup, you can watch the video demo
 <div align="center">
   <a target="_blank" href="https://www.youtube.com/watch?v=bao2C7ANmfI"><img src="https://img.youtube.com/vi/bao2C7ANmfI/0.jpg" width="100%" alt="Wordpress Beirut Popup Module"></a>
 </div>
